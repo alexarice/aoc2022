@@ -1,1 +1,1 @@
-(format t "Hello, World!")
+(message "Hello, World!")
